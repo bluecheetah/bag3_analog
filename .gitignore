@@ -1,0 +1,17 @@
+# Misc files
+*~
+*.nfs000000*
+
+# Python files
+*.pyc
+__pycache__
+
+# Virtuoso files
+*.cdslck
+*.cdslck.*
+
+# Pycharm related files
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+.idea*
